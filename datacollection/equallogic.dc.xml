@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datacollection-group name="Equallogic">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="Equallogic">
 
     <!-- Equallogic Instances -->
     <resourceType name="EqVol" label="Equallogic Volume ID" resourceLabel="${EqVolName}">
