@@ -1,0 +1,6 @@
+<resource-types>
+    <resourceType name="EqVol" label="Equallogic Volume ID" resourceLabel="${EqVolName}">
+        <persistenceSelectorStrategy class="org.opennms.netmgt.collection.support.PersistAllSelectorStrategy"/>
+        <storageStrategy class="org.opennms.netmgt.collection.support.IndexStorageStrategy"/>
+    </resourceType>
+</resource-types>
